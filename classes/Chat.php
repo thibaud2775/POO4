@@ -1,16 +1,16 @@
 <?php
 require_once 'Animal.php';
 
-class Chien extends Animal {
+class Chat extends Animal {
 
     public $poil;
     
     public function type (){
-        return parent::identifier()."et je suis un chien";
+        return parent::identifier()." et je suis un chat";
     }
     
     public function crier(){
-        echo "ouah ouha";
+        echo " miaouh";
     }
 
 }

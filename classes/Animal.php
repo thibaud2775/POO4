@@ -11,7 +11,7 @@ class Animal {
     public $déplacement;
 
     public function identifier(){
-        return "je suis un animal";
+        return "je suis un animal ";
     }
 
 
