@@ -1,8 +1,8 @@
 <?php
 // appel des fichiers
-require_once 'classes/Animal.php';
-require_once 'classes/Chien.php';
-require_once 'classes/Chat.php';
+require_once 'Animal.php';
+require_once 'Chien.php';
+require_once 'Chat.php';
 
 $chat = new Chat();
 echo '<br>';

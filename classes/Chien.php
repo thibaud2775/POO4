@@ -10,7 +10,7 @@ class Chien extends Animal {
     }
     
     public function crier(){
-        echo "ouah ouha";
+        echo " ouah ouha";
     }
 
 }
